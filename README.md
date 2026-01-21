@@ -139,6 +139,7 @@ drug-discovery-virtual-screening/
 ├── results/                     # Metrics, figures, and outputs
 ├── requirements.txt             # Python dependencie
 
+```
 ---
 
 ## Data
