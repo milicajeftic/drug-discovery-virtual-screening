@@ -115,13 +115,13 @@ in virtual screening applications.
 
 ## Project Structure
 
+```text
 drug-discovery-virtual-screening/
-│
 ├── data/
-│   ├── raw/                         # Original dataset
-│   └── processed/                   # Cleaned and prepared data
+│   ├── raw/                     # Original dataset
+│   └── processed/               # Cleaned and prepared data
 │
-├── notebooks/                       # Jupyter notebooks for analysis
+├── notebooks/                   # Jupyter notebooks for analysis
 │   ├── 00_setup_and_data_check.ipynb
 │   ├── 01_eda_and_preprocessing.ipynb
 │   ├── 02_baseline_logistic_regression.ipynb
@@ -131,16 +131,13 @@ drug-discovery-virtual-screening/
 │
 ├── src/
 │   ├── __init__.py
-│   ├── data_prep.py                 # Data loading and preprocessing
-│   ├── train.py                     # Model training
-│   ├── evaluate.py                  # Model evaluation
-│   └── utils.py                     # Helper functions
+│   ├── data_prep.py             # Data loading and preprocessing
+│   ├── train.py                 # Model training
+│   ├── evaluate.py              # Model evaluation
+│   └── utils.py                 # Helper functions
 │
-├── results/                         # Metrics, figures, and outputs
-├── requirements.txt                 # Python dependencies
-├── .gitignore                       # Git ignore file
-├── LICENSE                          # MIT License
-└── README.md                        # Project documentation
+├── results/                     # Metrics, figures, and outputs
+├── requirements.txt             # Python dependencie
 
 ---
 
