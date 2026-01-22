@@ -1,7 +1,30 @@
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-jupyter
-tensorflow
+asttokens @ file:///C:/b/abs_9662ywy9fp/croot/asttokens_1743630464377/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+comm @ file:///C:/miniconda3/conda-bld/comm_1763119233835/work
+debugpy @ file:///C:/miniconda3/conda-bld/debugpy_1762421657095/work
+decorator @ file:///C:/miniconda3/conda-bld/decorator_1757341256088/work
+exceptiongroup @ file:///C:/miniconda3/conda-bld/exceptiongroup_1761560437674/work
+executing @ file:///C:/miniconda3/conda-bld/executing_1757061252959/work
+ipykernel @ file:///C:/miniconda3/conda-bld/ipykernel_1762946093903/work
+ipython @ file:///C:/b/abs_8eyhzleyrk/croot/ipython_1734548134403/work
+jedi @ file:///C:/b/abs_3a2kbnlclc/croot/jedi_1733987412687/work
+jupyter_client @ file:///C:/Users/task_176839864521852/croot/jupyter_client_1768399093953/work
+jupyter_core @ file:///C:/miniconda3/conda-bld/jupyter_core_1764588347534/work
+matplotlib-inline @ file:///C:/miniconda3/conda-bld/matplotlib-inline_1762779265381/work
+nest-asyncio @ file:///C:/b/abs_65d6lblmoi/croot/nest-asyncio_1708532721305/work
+packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049101700/work
+parso @ file:///C:/miniconda3/conda-bld/parso_1762781925562/work
+platformdirs @ file:///C:/miniconda3/conda-bld/platformdirs_1762356608986/work
+prompt_toolkit @ file:///C:/miniconda3/conda-bld/prompt-toolkit_1761745021230/work
+psutil @ file:///C:/miniconda3/conda-bld/psutil_1761896539676/work
+pure_eval @ file:///C:/miniconda3/conda-bld/pure_eval_1757067068391/work
+Pygments @ file:///C:/miniconda3/conda-bld/pygments_1762431425987/work
+python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
+pywin32 @ file:///C:/b/abs_6c9w_vp9zi/croot/pywin32_1754670534373/work
+pyzmq @ file:///C:/miniconda3/conda-bld/pyzmq_1762375610449/work
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+stack_data @ file:///C:/miniconda3/conda-bld/stack_data_1757067051465/work
+tornado @ file:///C:/Users/task_176599267555405/croot/tornado_1765992779662/work
+traitlets @ file:///C:/b/abs_bfsnoxl4pq/croot/traitlets_1718227069245/work
+typing_extensions @ file:///C:/b/abs_ecq8gc0vbm/croot/typing_extensions_1756281142218/work
+wcwidth @ file:///C:/Users/task_176777900206875/croot/wcwidth_1767779217517/work
