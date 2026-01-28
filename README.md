@@ -29,7 +29,7 @@ The main objectives of this project are:
 
 ## Dataset
 
-Source: Kaggle – Drug Discovery Virtual Screening Dataset  
+Source: Kaggle - Drug Discovery Virtual Screening Dataset  
 Link: https://www.kaggle.com/datasets/shahriarkabir/drug-discovery-virtual-screening-dataset
 
 Description:  
@@ -66,7 +66,7 @@ as TensorFlow/Keras or PyTorch. This model explores whether deeper architectures
 more complex feature representations. Regularization techniques are applied to mitigate
 overfitting.
 
-All models are trained using the same train–validation–test split to ensure a fair
+All models are trained using the same train-validation-test split to ensure a fair
 comparison. Hyperparameter tuning is performed using cross-validation where appropriate.
 
 ---
@@ -117,28 +117,27 @@ in virtual screening applications.
 
 ```text
 drug-discovery-virtual-screening/
-├── data/
-│   ├── raw/                     # Original dataset
-│   └── processed/               # Cleaned and prepared data
-│
-├── notebooks/                   # Jupyter notebooks for analysis
-│   ├── 00_setup_and_data_check.ipynb
-│   ├── 01_eda_and_preprocessing.ipynb
-│   ├── 02_baseline_logistic_regression.ipynb
-│   ├── 03_tree_models_rf_gb.ipynb
-│   ├── 04_neural_network.ipynb
-│   └── 05_model_comparison_and_error_analysis.ipynb
-│
-├── src/
-│   ├── __init__.py
-│   ├── data_prep.py             # Data loading and preprocessing
-│   ├── train.py                 # Model training
-│   ├── evaluate.py              # Model evaluation
-│   └── utils.py                 # Helper functions
-│
-├── results/                     # Metrics, figures, and outputs
-├── requirements.txt             # Python dependencie
-
+|-- data/
+|   |-- raw/                     # Original dataset
+|   `-- processed/               # Cleaned and prepared data
+|
+|-- notebooks/                   # Jupyter notebooks for analysis
+|   |-- 00_setup_and_data_check.ipynb
+|   |-- 01_eda_and_preprocessing.ipynb
+|   |-- 02_baseline_logistic_regression.ipynb
+|   |-- 03_tree_models_rf_gb.ipynb
+|   |-- 04_neural_network.ipynb
+|   `-- 05_model_comparison_and_error_analysis.ipynb
+|
+|-- src/
+|   |-- __init__.py
+|   |-- data_prep.py             # Data loading and preprocessing
+|   |-- train.py                 # Model training
+|   |-- evaluate.py              # Model evaluation
+|   `-- utils.py                 # Helper functions
+|
+|-- results/                     # Metrics, figures, and outputs
+`-- requirements.txt             # Python dependencies
 ```
 ---
 
@@ -156,7 +155,7 @@ To download manually:
 
 ## Installation
 
-To install the required dependencies, run:
+To install the required dependenciesss, run:
 
 pip install -r requirements.txt
 
@@ -175,7 +174,7 @@ cd drug-discovery-virtual-screening
 
 data/raw/
 
-3. Install dependencies:
+3. Install dependenciesss:
 
 pip install -r requirements.txt
 
@@ -183,7 +182,7 @@ pip install -r requirements.txt
 
 - Start with 00_setup_and_data_check.ipynb
 - Continue with 01_eda_and_preprocessing.ipynb
-- Train models in notebooks 02–04
+- Train models in notebooks 02-04
 - Compare models and analyze errors in 05_model_comparison_and_error_analysis.ipynb
 
 Final outputs and figures will be saved in the `results/` directory.
@@ -203,9 +202,9 @@ Final outputs and figures will be saved in the `results/` directory.
 
 ## Author
 
-Milica Jeftić  
+Milica Jeftic  
 Bioinformatics student  
-University of Primorska – FAMNIT  
+University of Primorska - FAMNIT  
 Student ID: 89211255
 
 ---
